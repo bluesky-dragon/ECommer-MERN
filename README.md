@@ -19,7 +19,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 ## Presentation
 
-  There is a presentation file which shows the work flow of the web site. Please clilck here to download it
+  There is a presentation file which shows the work flow of the web site. Please clilck [here](/luisyanpederico/ECommer-MERN/raw/main/Presentation.pptx) to download it
 
 ## Database Seed
 
