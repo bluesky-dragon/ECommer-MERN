@@ -17,7 +17,8 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
 
-* Presentation
+## Presentation
+
   There is a presentation file which shows the work flow of the web site.
 
 ## Database Seed
