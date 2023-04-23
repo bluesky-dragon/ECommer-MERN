@@ -18,14 +18,21 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux Thunk middleware to handle asynchronous redux actions
 
 ## Demo photos
-  Shop
-  
+  Shop<br/>
   <img src='demo photos/Product List.png' />
   
   <details>
-  Product Detail
- 
+  Product Detail<br/>
   <img src='demo photos/Product Detail.png' />
+ 
+  Register<br/>
+  <img src='demo photos/Register.png' />
+ 
+  Login<br/>
+  <img src='demo photos/Login.png' />
+ 
+  Admin dashboard<br/>
+  <img src='demo photos/Admin dashboard.png' />
  
   </details>
 
