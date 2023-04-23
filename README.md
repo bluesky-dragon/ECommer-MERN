@@ -34,6 +34,29 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   Admin dashboard<br/>
   <img src='demo photos/Admin dashboard.png' />
  
+  Admin Prodct List<br/>
+  <img src='demo photos/Admin Prodct List.png' />
+ 
+  Admin Product Edit<br/>
+ <img src='demo photos/Admin Product Edit.png' />
+ 
+ Admin Category List<br/>
+ <img src='demo photos/Admin Category List.png' />
+ 
+ Admin Category Edit<br/>
+ <img src='demo photos/Admin Category Edit.png' />
+ 
+ Admin Brand List<br/>
+ <img src='demo photos/Admin Brand List.png' />
+ 
+ Admin Brand Edit<br/>
+ <img src='demo photos/Admin Brand Edit.png' />
+ 
+ Admin Merchant List<br/>
+ <img src='demo photos/Admin Merchant List.png' />
+ 
+ Admin Merchant Edit<br/>
+ <img src='demo photos/Admin Merchant Edit.png' />
   </details>
 
 ## Database Seed
