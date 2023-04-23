@@ -21,8 +21,8 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   Shop
   <img src='demo photos/Product List.png' />
   <details>
-  Product Edit
-  <img src='demo photos/Product Edit.png' />
+  Product Detail
+  <img src='demo photos/Product Detail.png' />
   </details>
 
 ## Database Seed
