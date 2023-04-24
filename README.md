@@ -16,6 +16,8 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * React for displaying UI components
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
+## Live Demo
+https://thesusoutdoors.com/
 
 ## Demo photos
   Shop<br/>
